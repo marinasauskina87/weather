@@ -6,7 +6,7 @@ public class WeatherIconDictionary {
     private static final Map<String, String> icons = new HashMap<>();
 
     static {
-        icons.put("sonnig", "☀\uFE0F");
+        icons.put("sonnig", "☀️");
         icons.put("regnerisch", "🌧️");
         icons.put("bewölkt", "☁️");
         icons.put("schnee", "❄️");
